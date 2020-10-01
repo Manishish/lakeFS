@@ -100,3 +100,4 @@ Keep up to date and get lakeFS support via:
 
 lakeFS is completely free and open source and licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
+## Thanks For Visiting
